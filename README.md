@@ -11,7 +11,7 @@
 
 ## 📝 Descrição
 **World of Swords** é um jogo de ação e aventura em 2D desenvolvido na Unity.  
-O jogador embarca em uma jornada épica por um mundo devastado por antigas guerras, onde espadas lendárias guardam o poder de restaurar o equilíbrio entre luz e trevas.
+O jogador embarca em uma jornada épica por um mundo devastado por monstros, onde espadas lendárias guardam o poder de restaurar o equilíbrio entre luz e trevas.
 
 ## 📅 Fase 1 - Planejamento e Setup
 - Repositório Git criado ✅  
