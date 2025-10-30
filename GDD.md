@@ -4,7 +4,7 @@
 
 **Nome do Jogo:** World Of Swords  
 **Gênero:** Ação e Aventura  
-**Estilo Visual:** 2D 
+**Estilo Visual:** 3D 
 **Público-alvo:** Jogadores de 10 a 15 anos  
 **Resumo em uma frase (Elevator Pitch):**  
 Em *World Of Swords*, o jogador embarca em uma jornada por um mundo dominado por criaturas místicas e conquistando espadas lendárias para restaurar o equilíbrio entre reinos corrompidos.
